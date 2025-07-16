@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
     entry: './src/index.js', // Entry file for your JS code
     output: {
-        path: path.resolve(__dirname, '../themes/julioedi/assets/js'), // Output directory for the compiled file
+        path: path.resolve(__dirname, '../plugins/julioedi/multi-language-manager/js'), // Output directory for the compiled file
         filename: 'blocks.js', // Output filename
     },
     resolve: {

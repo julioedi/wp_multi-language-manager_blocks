@@ -1,5 +1,5 @@
-# Custom SEO Aside Block for julioedi.com Theme
-
+# Multi Language Manager Translator for Wordpress
+<!-- 
 This is a custom Gutenberg block developed as part of the WordPress theme for [julioedi.com](https://julioedi.com). The block adds an SEO-focused aside section to posts or pages, enabling more granular control over metadata and social media previews.
 
 ## Block Features
@@ -48,4 +48,4 @@ This block is specifically built for editorial use on **julioedi.com**, allowing
 
 ## License
 
-This code is part of a custom WordPress theme and is not distributed publicly. All rights reserved by the site owner.
+This code is part of a custom WordPress theme and is not distributed publicly. All rights reserved by the site owner. -->
